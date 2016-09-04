@@ -1,2 +1,2 @@
 # zaim
-zaim_api
+zaim apiを使用した開発。
